@@ -1,0 +1,6 @@
+\select@language {brazilian}
+\hyphenpenalty =10000\thispagestyle {empty}
+\contentsline {chapter}{A Aventura da Mona Lisa}{7}
+\contentsline {chapter}{Modo garantido de pegar qualquer criminoso. Rá! Rá!}{17}
+\contentsline {chapter}{Cherchez la Femme}{47}
+\contentsfinish 
